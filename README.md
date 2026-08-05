@@ -8,3 +8,4 @@ My beginner Python projects as I learn programming and work toward AI/ML
 - **Number Guessing Game** — guess-the-number game with distance-based hints (much/slightly higher/lower) and replay loop
 - **Bank Account Simulator** — OOP-based account system with deposit, withdraw, and balance check via a menu-driven interface
 - **To-Do List App** — OOP-based task manager with persistent storage using file handling (add, view, remove tasks)
+- **Expense Tracker** — combines functions, OOP, and file handling to track expenses with persistent storage and total calculation
